@@ -1,0 +1,25 @@
+print('hello world')
+
+```
+num =  10
+if num < 5:
+    print('Number is less than 5.')
+else:
+    print('Number is greater than 5.')
+ ```
+---
+```
+[Duck Wikipedia](https://en.wikipedia.org/wiki/Duck)
+```
+```
+![Picture of Duck](Duck.png)
+```
+! [Baby Duckling](https://unsplash.com/photos/JDzoTGfoogA)
+
+| Fruit | Colour | Shape | Size |
+| ----- | ------ | ----- | ---- |
+|   Cherry    | Red       |  Circle    |  Small    |
+|       Grape|    Purple    |   Circle   |  Small   |
+|  Pineapple     |   Yellow     |  Oval     |   Big
+| Watermelon   |Green | Circle | Big
+
