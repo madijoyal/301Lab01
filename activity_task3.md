@@ -15,7 +15,11 @@ else:
  [Duck Wikipedia](https://en.wikipedia.org/wiki/Duck)
 
 ```
+<<<<<<< HEAD
 ![Picture of Duck from local file](Duck.jpeg)
+=======
+![Picture of Duck from local file](Duck.png)
+>>>>>>> 2f8d3159338eda0af3f55b78a45dabdee3530c13
 ```
 ```
 ![Picture of Duck from Internet](https://en.wikipedia.org/wiki/Duck_test#/media/File:Mallard2.jpg)
