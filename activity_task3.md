@@ -1,6 +1,5 @@
 `print('hello world')`
 
-
  ```
  num = 50
 if num < 35:
@@ -29,5 +28,3 @@ else:
 |   Cherry    |   Red     |   Round    |    Small  |
 |     Watermelon  | Green       |  Round     |   Big
    | Grape   | Purple | Round | Small
-
-
